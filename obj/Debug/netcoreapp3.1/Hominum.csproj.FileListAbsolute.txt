@@ -1,0 +1,13 @@
+D:\Trabajo\Repositorios Git\Hominum\Hominum\bin\Debug\netcoreapp3.1\Hominum.exe
+D:\Trabajo\Repositorios Git\Hominum\Hominum\bin\Debug\netcoreapp3.1\Hominum.deps.json
+D:\Trabajo\Repositorios Git\Hominum\Hominum\bin\Debug\netcoreapp3.1\Hominum.runtimeconfig.json
+D:\Trabajo\Repositorios Git\Hominum\Hominum\bin\Debug\netcoreapp3.1\Hominum.runtimeconfig.dev.json
+D:\Trabajo\Repositorios Git\Hominum\Hominum\bin\Debug\netcoreapp3.1\Hominum.dll
+D:\Trabajo\Repositorios Git\Hominum\Hominum\bin\Debug\netcoreapp3.1\Hominum.pdb
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.csprojAssemblyReference.cache
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.AssemblyInfoInputs.cache
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.AssemblyInfo.cs
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.csproj.CoreCompileInputs.cache
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.dll
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.pdb
+D:\Trabajo\Repositorios Git\Hominum\Hominum\obj\Debug\netcoreapp3.1\Hominum.genruntimeconfig.cache
